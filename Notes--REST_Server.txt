@@ -1,0 +1,5 @@
+A Model is a body of data.
+A View is a partial set of data that is let out into the world.
+A Controller is an object that uses given request information and a Model to generate a View.
+A handler is an object that handles a request and invokes an appropriate controller.
+For a REST API, items in the path of a URL reference objects.
